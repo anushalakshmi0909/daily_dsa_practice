@@ -10,7 +10,7 @@ class Node {
     }
 }
 
-public class Main {
+public class solution {
 
     public static void printLevels(Node root) {
         if (root == null) return;
